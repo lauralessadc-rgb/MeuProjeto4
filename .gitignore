@@ -1,0 +1,19 @@
+# Unreal Engine generated files
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Visual Studio
+.vs/
+
+# Build files
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+
+# OS
+.DS_Store
+Thumbs.db
